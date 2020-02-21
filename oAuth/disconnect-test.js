@@ -45,13 +45,13 @@ module.exports = require('express').Router()
       });
   })
 
-  .get('/identity', (req, res) => {
-    const dis = new Discogs(oAuthData.accessData);
-    dis.getIdentity((err, identity) => {
-      console.log(identity);
-      res.send(identity);
-    });
-  })
+// .get('/identity', (req, res) => {
+//   const dis = new Discogs(oAuthData.accessData);
+//   dis.getIdentity((err, identity) => {
+//     console.log(identity);
+//     res.send(identity);
+//   });
+// })
 
   .get('/imagetest', function(req, res){
     const db = new Discogs(oAuthData.accessData).database();
