@@ -1,0 +1,58 @@
+{
+  "releaseId": {
+      "$numberInt": "1"
+  },
+  "timestamp": {
+      "$date": {
+          "$numberLong": "1582830130579"
+      }
+  },
+  "Very Good (VG)": {
+      "currency": "USD",
+      "value": {
+          "$numberDouble": "13.666304347826088"
+      }
+  },
+  "Good Plus (G+)": {
+      "currency": "USD",
+      "value": {
+          "$numberDouble": "7.592391304347826"
+      }
+  },
+  "Near Mint (NM or M-)": {
+      "currency": "USD",
+      "value": {
+          "$numberDouble": "25.81413043478261"
+      }
+  },
+  "Good (G)": {
+      "currency": "USD",
+      "value": {
+          "$numberDouble": "4.555434782608695"
+      }
+  },
+  "Very Good Plus (VG+)": {
+      "currency": "USD",
+      "value": {
+          "$numberDouble": "19.74021739130435"
+      }
+  },
+  "Mint (M)": {
+      "currency": "USD",
+      "value": {
+          "$numberDouble": "28.851086956521737"
+      }
+  },
+  "Fair (F)": {
+      "currency": "USD",
+      "value": {
+          "$numberDouble": "3.0369565217391306"
+      }
+  },
+  "Poor (P)": {
+      "currency": "USD",
+      "value": {
+          "$numberDouble": "1.5184782608695653"
+      }
+  }
+}
