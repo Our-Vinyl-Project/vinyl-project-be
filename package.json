@@ -33,6 +33,9 @@
     "express": "^4.17.1",
     "mongodb": "^3.5.4",
     "mongoose": "^5.9.1",
-    "superagent": "^5.2.2"
+    "superagent": "^5.2.2",
+    "superagent-retry-delay": "^2.4.2",
+    "superagent-throttle": "^1.0.1",
+    "throttled-request": "^0.1.1"
   }
 }
