@@ -1,6 +1,8 @@
 const { Router } = require('express');
 const Release = require('../models/Release');
 
+//this model stores individual
+
 module.exports = Router()
 //add a Release
   .post('/', (req, res, next) => {
