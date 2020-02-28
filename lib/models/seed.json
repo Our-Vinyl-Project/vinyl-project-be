@@ -1,0 +1,154 @@
+[
+  {
+     "releaseId":4282482,
+     "timestamp":1111,
+     "conditions":{
+        "Very Good (VG)":{
+           "currency":"USD",
+           "value":218.6700767263427
+        },
+        "Good Plus (G+)":{
+           "currency":"USD",
+           "value":121.48337595907928
+        },
+        "Near Mint (NM or M-)":{
+           "currency":"USD",
+           "value":413.04347826086956
+        },
+        "Good (G)":{
+           "currency":"USD",
+           "value":72.89002557544757
+        },
+        "Very Good Plus (VG+)":{
+           "currency":"USD",
+           "value":315.85677749360616
+        },
+        "Mint (M)":{
+           "currency":"USD",
+           "value":461.63682864450124
+        },
+        "Fair (F)":{
+           "currency":"USD",
+           "value":48.593350383631716
+        },
+        "Poor (P)":{
+           "currency":"USD",
+           "value":22.296675191815858
+        }
+     }
+  },
+  {
+     "releaseId":4282482,
+     "timestamp":2222,
+     "conditions":{
+        "Very Good (VG)":{
+           "currency":"USD",
+           "value":219.6700767263427
+        },
+        "Good Plus (G+)":{
+           "currency":"USD",
+           "value":122.48337595907928
+        },
+        "Near Mint (NM or M-)":{
+           "currency":"USD",
+           "value":414.04347826086956
+        },
+        "Good (G)":{
+           "currency":"USD",
+           "value":73.89002557544757
+        },
+        "Very Good Plus (VG+)":{
+           "currency":"USD",
+           "value":316.85677749360616
+        },
+        "Mint (M)":{
+           "currency":"USD",
+           "value":462.63682864450124
+        },
+        "Fair (F)":{
+           "currency":"USD",
+           "value":49.593350383631716
+        },
+        "Poor (P)":{
+           "currency":"USD",
+           "value":25.296675191815858
+        }
+     }
+  },
+  {
+     "releaseId":4282482,
+     "timestamp":3333,
+     "conditions":{
+        "Very Good (VG)":{
+           "currency":"USD",
+           "value":220.6700767263427
+        },
+        "Good Plus (G+)":{
+           "currency":"USD",
+           "value":123.48337595907928
+        },
+        "Near Mint (NM or M-)":{
+           "currency":"USD",
+           "value":415.04347826086956
+        },
+        "Good (G)":{
+           "currency":"USD",
+           "value":75.89002557544757
+        },
+        "Very Good Plus (VG+)":{
+           "currency":"USD",
+           "value":317.85677749360616
+        },
+        "Mint (M)":{
+           "currency":"USD",
+           "value":464.63682864450124
+        },
+        "Fair (F)":{
+           "currency":"USD",
+           "value":51.593350383631716
+        },
+        "Poor (P)":{
+           "currency":"USD",
+           "value":25.296675191815858
+        }
+     }
+  },
+  {
+     "releaseId":4282482,
+     "timestamp":4444,
+     "conditions":{
+        "Very Good (VG)":{
+           "currency":"USD",
+           "value":219.6700767263427
+        },
+        "Good Plus (G+)":{
+           "currency":"USD",
+           "value":122.48337595907928
+        },
+        "Near Mint (NM or M-)":{
+           "currency":"USD",
+           "value":414.04347826086956
+        },
+        "Good (G)":{
+           "currency":"USD",
+           "value":73.89002557544757
+        },
+        "Very Good Plus (VG+)":{
+           "currency":"USD",
+           "value":317.85677749360616
+        },
+        "Mint (M)":{
+           "currency":"USD",
+           "value":463.63682864450124
+        },
+        "Fair (F)":{
+           "currency":"USD",
+           "value":49.593350383631716
+        },
+        "Poor (P)":{
+           "currency":"USD",
+           "value":25.296675191815858
+        }
+     }
+  }
+]
